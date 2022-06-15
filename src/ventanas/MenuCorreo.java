@@ -5,6 +5,8 @@
  */
 package ventanas;
 
+import correos.Datos;
+
 /**
  *
  * @author Reyno21
@@ -12,6 +14,7 @@ package ventanas;
 public class MenuCorreo extends javax.swing.JFrame
 {
 
+    public static Datos datos;
     /**
      * Creates new form MenuCorreo
      */
